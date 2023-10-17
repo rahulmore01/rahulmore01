@@ -1,17 +1,12 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Hi 👋, I'm Rahul More</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47isju97mafax9webrf3grkb8p9wjnmv2ud744075i&rid=giphy.gif&ct=g">
-
+<img align="right" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" alt="clock" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulmore01&label=Profile%20views&color=0e75b6&style=flat" alt="rahulmore01" /> </p>
 
-- 🔭 I’m currently working on [Shop Easy](https://github.com/rahulmore01/Projects/tree/main/shopeasy01)
+- 🔭 I’m actively looking for a **Job**
 
-- 🌱 I’m currently learning **Blockchain Development**
-
-- 👯 I’m looking to collaborate on **Portfolio Website**
-
-- 💬 Ask me about **Figma,React,Solidity**
+- 📝 I write articles on https://medium.com/@morerahul620
 
 - 📫 How to reach me **morerahul620@gmail.com**
 
