@@ -12,7 +12,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
- - FIGMA, HTML, CSS, JAVASCRIPT, REACTJS, NEXTJS, REDUX, TAILWIND CSS, SCSS, NODEJS, MONGODB
+ - Figma, HTML, CSS, Javascript, Reactjs, Nextjs, Redux, Tailwind CSS, SCSS, Nodejs, Mongodb
 </p>
 
 
