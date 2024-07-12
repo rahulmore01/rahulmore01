@@ -11,7 +11,7 @@
 <img align="right" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" alt="clock" width="300"> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulmore01&label=Profile%20views&color=0e75b6&style=flat" alt="rahulmore01" /> </p>
 
-- <h4> 🔭 I’m actively looking for a **Job** </h4>
+- <h4> 🔭 I’m actively looking for a Job </h4>
 
 - 💻 My developer portfolio - https://dark-portfolio-one.vercel.app/
 
