@@ -4,7 +4,7 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rahulmore01&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
-<img align="right" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" alt="clock" width="300" />
+<img align="right" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" alt="clock" width="340" />
 
 <!-- <h2 align="center">🏆 GitHub Trophies</h2>
 [](https://github-profile-trophy.vercel.app/?username=rahulmore01&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
@@ -21,7 +21,7 @@
 <p align="left">
  - Figma, HTML, CSS, Javascript, Reactjs, Nextjs, Redux, Tailwind CSS, SCSS, Nodejs, Mongodb
 </p>
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/devxprite) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devxprite) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@devxprite) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/devxprite) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/devxprite) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/devxprite) 
 
 # 💻 Tech Stack:
