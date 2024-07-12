@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm Rahul More</h2>
 <h4 align="center">A passionate full-stack developer from Akola, India</h4>
 <h2 align="center">🏆 GitHub Trophies</h2>
-(https://github-profile-trophy.vercel.app/?username=rahulmore01&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
+[](https://github-profile-trophy.vercel.app/?username=rahulmore01&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
 <img align="right" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" alt="clock" width="300">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulmore01&label=Profile%20views&color=0e75b6&style=flat" alt="rahulmore01" /> </p>
 
