@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋, I'm Rahul More - <span style="font-size: 1em">A passionate full-stack developer from Akola, India</span></h2>
+<h2 align="left">Hi 👋, I'm Rahul More - <span style="font-size: 0.5em">A passionate full-stack developer from Akola, India</span></h2>
 
 <h3 align="left">🏆 GitHub Trophies</h3>
 <div align="left">
