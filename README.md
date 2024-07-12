@@ -1,5 +1,6 @@
-<h2 align="left">Hi 👋, I'm Rahul More - <h4>A passionate full-stack developer from Akola, India</h4></h2>
-<h2 align="left">🏆 GitHub Trophies</h2>
+<h2 align="left">Hi 👋, I'm Rahul More - <h4 style="display: inline;">A passionate full-stack developer from Akola, India</h4></h2>
+
+<h3 align="left">🏆 GitHub Trophies</h3>
 <div align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=rahulmore01&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
