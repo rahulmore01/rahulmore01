@@ -13,7 +13,7 @@
 
 - <h4> 🔭 I’m actively looking for a Job </h4>
 
-- 💻 My developer portfolio - https://dark-portfolio-one.vercel.app/
+- 💻 My developer portfolio - https://www.rahulmore.dev/
 
 - 📝 I write articles on - https://medium.com/@morerahul620
 
